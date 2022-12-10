@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Ffish-test-333\u002F_nuxt\u002Fstatic\u002F1670705616",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Ffish-test-333\u002F",assetsPath:"\u002Ffish-test-333\u002F_nuxt\u002F",cdnURL:a}}}}(null));
